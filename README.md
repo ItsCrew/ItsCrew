@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Chanana</h1>
-<h3 align="center">Learning Web Development And Pursuing Full Stack Development</h3>
+<h3 align="center">Currently learning web development and aiming to become a full-stack developer.</h3>
 
 <img
   align="right"
